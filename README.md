@@ -3,7 +3,7 @@
 ## 1. Description
 freeCodeCamp project. This is a basic webpage used to help learn the most common type of HTML tags
 
-[DIRECT LINK](https://cbushehry.github.io/-----/)
+[DIRECT LINK](https://cbushehry.github.io/cat-photo-app/)
 
 ## 2. Features
  * Cat Photos
