@@ -1,17 +1,17 @@
 # CAT PHOTO APP
 
 ## 1. Description
-freeCodeCamp project. 
+freeCodeCamp project. This is a basic webpage used to help learn the most common type of HTML tags
 
 [DIRECT LINK](https://cbushehry.github.io/-----/)
 
 ## 2. Features
- * Add, subtract, multiply, or divide any combination of numbers
- * Clear all /  delete buttons
- * ( Parenthesis )
- * Error! warning
+ * Cat Photos
+ * Things cats love
+ * Things cats hate
+ * Basic input form
 
- ![](assets/images/calculator.jpg)
+ ![](images/cat-photo-app.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
