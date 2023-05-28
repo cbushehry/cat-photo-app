@@ -11,7 +11,7 @@ freeCodeCamp project. This is a basic webpage used to help learn the most common
  * Things cats hate
  * Basic input form
 
- ![](images/cat-photo-app.jpg)
+ ![cat-photo-app image](./asssets/images/cat-photo-app.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
