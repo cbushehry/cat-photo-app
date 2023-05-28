@@ -1,17 +1,18 @@
 # CAT PHOTO APP
 
 ## 1. Description
-freeCodeCamp project. This is a basic webpage used to help learn the most common type of HTML tags
+freeCodeCamp HTML project. This is a basic webpage used to help learn the most common type of HTML tags
 
-[DIRECT LINK](https://cbushehry.github.io/cat-photo-app/)
+DEPLOYMENT:
+ [DIRECT LINK](https://cbushehry.github.io/cat-photo-app/) | [GITHUB REPOSITORY](https://github.com/cbushehry/cat-photo-app)
 
 ## 2. Features
  * Cat Photos
  * Things cats love
  * Things cats hate
  * Basic input form
-
- ![cat-photo-app image](./asssets/images/cat-photo-app.jpg)
+<br></br>
+ ![cat-photo-app image](./images/cat-photo-app.jpg)
 
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
